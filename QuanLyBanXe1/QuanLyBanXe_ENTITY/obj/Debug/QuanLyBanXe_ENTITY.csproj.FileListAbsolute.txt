@@ -1,0 +1,26 @@
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe_ENTITY\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe_ENTITY\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe_ENTITY\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe_ENTITY\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.csprojResolveAssemblyReference.cache
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_ENTITY\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_ENTITY\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_ENTITY\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_ENTITY\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe_ENTITY\bin\Debug\QuanLyBanXe_ENTITY.dll
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe_ENTITY\bin\Debug\QuanLyBanXe_ENTITY.pdb
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.dll
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.pdb
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe_ENTITY\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe_ENTITY\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.dll
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe_ENTITY\obj\Debug\QuanLyBanXe_ENTITY.pdb

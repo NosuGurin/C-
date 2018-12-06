@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C4306810-5F42-4915-B497-9FE2A4B45088}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuanLyBanXe1</RootNamespace>
+    <AssemblyName>QuanLyBanXe1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.Synchronization.Data, Version=2.0.0.0" />
+    <Reference Include="Microsoft.Synchronization.Data.Server, Version=2.0.0.0" />
+    <Reference Include="Microsoft.Synchronization.Data.SqlServerCe, Version=2.0.0.0" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BanHang_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BanHang_View.Designer.cs">
+      <DependentUpon>BanHang_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CT_HDBAN_VIEW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CT_HDBAN_VIEW.Designer.cs">
+      <DependentUpon>CT_HDBAN_VIEW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CT_HDNHAP_VIEW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CT_HDNHAP_VIEW.Designer.cs">
+      <DependentUpon>CT_HDNHAP_VIEW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap_View.Designer.cs">
+      <DependentUpon>DangNhap_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoiMatKhau_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoiMatKhau_View.Designer.cs">
+      <DependentUpon>DoiMatKhau_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOADONBAN_VIEW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOADONBAN_VIEW.Designer.cs">
+      <DependentUpon>HOADONBAN_VIEW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOADONNHAP_VIEW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOADONNHAP_VIEW.Designer.cs">
+      <DependentUpon>HOADONNHAP_VIEW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang_View.Designer.cs">
+      <DependentUpon>KhachHang_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoaiXe_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoaiXe_View.Designer.cs">
+      <DependentUpon>LoaiXe_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhaCungCap_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhaCungCap_View.Designer.cs">
+      <DependentUpon>NhaCungCap_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien_View.Designer.cs">
+      <DependentUpon>NhanVien_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhapHang_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhapHang_View.Designer.cs">
+      <DependentUpon>NhapHang_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhaSanXuat_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhaSanXuat_View.Designer.cs">
+      <DependentUpon>NhaSanXuat_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLyBanXeDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyBanXeDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyBanXe_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyBanXe_View.Designer.cs">
+      <DependentUpon>QuanLyBanXe_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThuKho_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThuKho_View.Designer.cs">
+      <DependentUpon>ThuKho_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Xe_RP_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Xe_RP_View.Designer.cs">
+      <DependentUpon>Xe_RP_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Xe_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Xe_View.Designer.cs">
+      <DependentUpon>Xe_View.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BanHang_View.resx">
+      <DependentUpon>BanHang_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CT_HDBAN_VIEW.resx">
+      <DependentUpon>CT_HDBAN_VIEW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CT_HDNHAP_VIEW.resx">
+      <DependentUpon>CT_HDNHAP_VIEW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap_View.resx">
+      <DependentUpon>DangNhap_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoiMatKhau_View.resx">
+      <DependentUpon>DoiMatKhau_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOADONBAN_VIEW.resx">
+      <DependentUpon>HOADONBAN_VIEW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOADONNHAP_VIEW.resx">
+      <DependentUpon>HOADONNHAP_VIEW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang_View.resx">
+      <DependentUpon>KhachHang_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoaiXe_View.resx">
+      <DependentUpon>LoaiXe_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhaCungCap_View.resx">
+      <DependentUpon>NhaCungCap_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien_View.resx">
+      <DependentUpon>NhanVien_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhapHang_View.resx">
+      <DependentUpon>NhapHang_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhaSanXuat_View.resx">
+      <DependentUpon>NhaSanXuat_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="QuanLyBanXe_View.resx">
+      <DependentUpon>QuanLyBanXe_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThuKho_View.resx">
+      <DependentUpon>ThuKho_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Xe_RP.rdlc" />
+    <EmbeddedResource Include="Xe_RP_View.resx">
+      <DependentUpon>Xe_RP_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Xe_View.resx">
+      <DependentUpon>Xe_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <Fakes Include="Fakes\System.Data.SqlServerCe.fakes" />
+    <None Include="Properties\app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QuanLyBanXeDataSet.xsc">
+      <DependentUpon>QuanLyBanXeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyBanXeDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyBanXeDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyBanXeDataSet.xss">
+      <DependentUpon>QuanLyBanXeDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QuanLyBanXe_BUS\QuanLyBanXe_BUS.csproj">
+      <Project>{88639CF9-BF70-4D5D-AEDD-943F3C4ED9F4}</Project>
+      <Name>QuanLyBanXe_BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QuanLyBanXe_DAL\QuanLyBanXe_DAL.csproj">
+      <Project>{839CD570-BEF3-4497-B13E-49923D8B49B3}</Project>
+      <Name>QuanLyBanXe_DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QuanLyBanXe_ENTITY\QuanLyBanXe_ENTITY.csproj">
+      <Project>{3F5791EA-BA7D-4375-8C86-760EFCF4F27E}</Project>
+      <Name>QuanLyBanXe_ENTITY</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

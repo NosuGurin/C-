@@ -1,0 +1,238 @@
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.pdb
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Properties.Resources.resources
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csproj.GenerateResource.Cache
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.exe
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.pdb
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.dll
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.dll
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.pdb
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.pdb
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csprojResolveAssemblyReference.cache
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.KhachHang_View.resources
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhanVien_View.resources
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaCungCap_View.resources
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaSanXuat_View.resources
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.LoaiXe_View.resources
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Xe_View.resources
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe.config
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONNHAP_VIEW.resources
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONBAN_VIEW.resources
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.QuanLyBanXe_View.resources
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.DangNhap_View.resources
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe.config
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.exe
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.pdb
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.pdb
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.dll
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.dll
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.pdb
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.pdb
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csprojResolveAssemblyReference.cache
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.DangNhap_View.resources
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONBAN_VIEW.resources
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONNHAP_VIEW.resources
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.KhachHang_View.resources
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.LoaiXe_View.resources
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaCungCap_View.resources
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhanVien_View.resources
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaSanXuat_View.resources
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Properties.Resources.resources
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.QuanLyBanXe_View.resources
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Xe_View.resources
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csproj.GenerateResource.Cache
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.CT_HDNHAP_VIEW.resources
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.CT_HDBAN_VIEW.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe.config
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.exe
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.pdb
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csprojResolveAssemblyReference.cache
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.CT_HDBAN_VIEW.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.CT_HDNHAP_VIEW.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.DangNhap_View.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONBAN_VIEW.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONNHAP_VIEW.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.KhachHang_View.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.LoaiXe_View.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaCungCap_View.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhanVien_View.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaSanXuat_View.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Properties.Resources.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.QuanLyBanXe_View.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Xe_View.resources
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csproj.GenerateResource.Cache
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.pdb
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.dll
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.dll
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.pdb
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.pdb
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe.config
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.exe
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.pdb
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.pdb
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.Synchronization.Data.dll
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.Synchronization.Data.Server.dll
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.Synchronization.Data.SqlServerCe.dll
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.dll
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.dll
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.pdb
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.pdb
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.Synchronization.Data.xml
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.Synchronization.Data.Server.xml
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.Synchronization.Data.SqlServerCe.xml
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csprojResolveAssemblyReference.cache
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.CT_HDBAN_VIEW.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.CT_HDNHAP_VIEW.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.DangNhap_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONBAN_VIEW.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONNHAP_VIEW.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.KhachHang_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.LoaiXe_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaCungCap_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhanVien_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaSanXuat_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Properties.Resources.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.QuanLyBanXe_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Xe_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csproj.GenerateResource.Cache
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.DoiMatKhau_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.ThuKho_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.BanHang_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhapHang_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\RdlCompile.cache
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\RdlCompile.compiled
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.BH_RP_VIEW.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NH_RP_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.KH_RP_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.LX_RP_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NCC_RP_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NSX_RP_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NV_RP_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.X_RP_View.resources
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.BC_RP_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe.config
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.exe
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.pdb
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.pdb
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.Synchronization.Data.dll
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.Synchronization.Data.Server.dll
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.Synchronization.Data.SqlServerCe.dll
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.dll
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.dll
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.pdb
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.pdb
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.Synchronization.Data.xml
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.Synchronization.Data.Server.xml
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.Synchronization.Data.SqlServerCe.xml
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csprojResolveAssemblyReference.cache
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.BanHang_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.BC_RP_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.BH_RP_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.CT_HDBAN_VIEW.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.CT_HDNHAP_VIEW.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.DangNhap_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.DoiMatKhau_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONBAN_VIEW.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONNHAP_VIEW.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.KhachHang_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.KH_RP_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.LoaiXe_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.LX_RP_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NCC_RP_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaCungCap_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhanVien_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NH_RP_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhapHang_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaSanXuat_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NSX_RP_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NV_RP_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Properties.Resources.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.QuanLyBanXe_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.ThuKho_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Xe_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.X_RP_View.resources
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csproj.GenerateResource.Cache
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\RdlCompile.cache
+E:\IT\c#\DoAnTotNghiep\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.BanHang_View.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.CT_HDBAN_VIEW.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.CT_HDNHAP_VIEW.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.DangNhap_View.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.DoiMatKhau_View.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONBAN_VIEW.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONNHAP_VIEW.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.KhachHang_View.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.LoaiXe_View.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaCungCap_View.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhanVien_View.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhapHang_View.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaSanXuat_View.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Properties.Resources.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.QuanLyBanXe_View.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.ThuKho_View.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Xe_View.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe.config
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.pdb
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.dll
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.dll
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.dll
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.pdb
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.pdb
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.pdb
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.exe
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.pdb
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Xe_RP_View.resources
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\RdlCompile.compiled
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe.config
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.exe
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe1.pdb
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.dll
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.dll
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_BUS.pdb
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_DAL.pdb
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csprojFakesResolveAssemblyReference.cache
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csprojResolveAssemblyReference.cache
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.BanHang_View.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.CT_HDBAN_VIEW.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.CT_HDNHAP_VIEW.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.DangNhap_View.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.DoiMatKhau_View.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONBAN_VIEW.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.HOADONNHAP_VIEW.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.KhachHang_View.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.LoaiXe_View.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaCungCap_View.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhanVien_View.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhapHang_View.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.NhaSanXuat_View.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Properties.Resources.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.QuanLyBanXe_View.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.ThuKho_View.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Xe_RP_View.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.Xe_View.resources
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.csproj.GenerateResource.Cache
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\RdlCompile.cache
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\RdlCompile.compiled
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.exe
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe1\obj\x86\Debug\QuanLyBanXe1.pdb

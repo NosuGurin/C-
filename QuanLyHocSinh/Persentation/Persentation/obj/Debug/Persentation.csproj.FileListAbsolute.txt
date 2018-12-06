@@ -1,0 +1,16 @@
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\bin\Debug\Persentation.exe.config
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\bin\Debug\Persentation.exe
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\bin\Debug\Persentation.pdb
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\bin\Debug\BUS.dll
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\bin\Debug\DTO.dll
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\bin\Debug\DAO.dll
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\bin\Debug\BUS.pdb
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\bin\Debug\DTO.pdb
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\bin\Debug\DAO.pdb
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\obj\Debug\Persentation.csprojResolveAssemblyReference.cache
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\obj\Debug\Persentation.Form1.resources
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\obj\Debug\Persentation.Properties.Resources.resources
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\obj\Debug\Persentation.csproj.GenerateResource.Cache
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\obj\Debug\Persentation.exe
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\obj\Debug\Persentation.pdb
+E:\code\C#\QuanLyHocSinh\Persentation\Persentation\obj\Debug\Persentation.Form2.resources

@@ -1,0 +1,9 @@
+E:\code\C#\QuanLyHocSinh\Persentation\BUS\bin\Debug\BUS.dll
+E:\code\C#\QuanLyHocSinh\Persentation\BUS\bin\Debug\BUS.pdb
+E:\code\C#\QuanLyHocSinh\Persentation\BUS\bin\Debug\DAO.dll
+E:\code\C#\QuanLyHocSinh\Persentation\BUS\bin\Debug\DTO.dll
+E:\code\C#\QuanLyHocSinh\Persentation\BUS\bin\Debug\DAO.pdb
+E:\code\C#\QuanLyHocSinh\Persentation\BUS\bin\Debug\DTO.pdb
+E:\code\C#\QuanLyHocSinh\Persentation\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\code\C#\QuanLyHocSinh\Persentation\BUS\obj\Debug\BUS.dll
+E:\code\C#\QuanLyHocSinh\Persentation\BUS\obj\Debug\BUS.pdb

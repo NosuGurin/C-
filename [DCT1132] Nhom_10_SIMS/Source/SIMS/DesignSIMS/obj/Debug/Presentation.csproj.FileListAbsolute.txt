@@ -1,0 +1,40 @@
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\obj\Debug\DesignSIMS.Login.resources
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\obj\Debug\DesignSIMS.Properties.Resources.resources
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\obj\Debug\Presentation.csproj.GenerateResource.Cache
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\bin\Debug\DesignSIMS.exe.config
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\bin\Debug\DesignSIMS.exe
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\bin\Debug\DesignSIMS.pdb
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\obj\Debug\DesignSIMS.exe
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\obj\Debug\DesignSIMS.pdb
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\bin\Debug\BLL.dll
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\bin\Debug\DAL.dll
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\bin\Debug\BLL.pdb
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\bin\Debug\DAL.pdb
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DesignSIMS\obj\Debug\DesignSIMS.SPSpace.resources
+C:\Users\Pegasus\Documents\Visual Studio 2012\Projects\Login\DesignSIMS\obj\Debug\DesignSIMS.ChangePassword.resources
+C:\Users\Pegasus\Documents\Visual Studio 2012\Projects\Login\DesignSIMS\obj\Debug\DesignSIMS.ReceiptDetail.resources
+C:\Users\Pegasus\Documents\Visual Studio 2012\Projects\Login\DesignSIMS\obj\Debug\DesignSIMS.IMSpace.resources
+C:\Users\Pegasus\Documents\Visual Studio 2012\Projects\Login\DesignSIMS\obj\Debug\DesignSIMS.AdminSpace.resources
+C:\Users\Pegasus\Documents\Visual Studio 2012\Projects\Login\DesignSIMS\obj\Debug\DesignSIMS.MailDetail.resources
+C:\Users\Pegasus\Documents\Visual Studio 2012\Projects\Login\DesignSIMS\obj\Debug\DesignSIMS.SMSpace.resources
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\bin\Debug\DesignSIMS.exe.config
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\obj\Debug\DesignSIMS.pdb
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\bin\Debug\DesignSIMS.exe
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\bin\Debug\DesignSIMS.pdb
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\bin\Debug\BLL.dll
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\bin\Debug\DAL.dll
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\bin\Debug\BLL.pdb
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\bin\Debug\DAL.pdb
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\obj\Debug\DesignSIMS.AdminSpace.resources
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\obj\Debug\DesignSIMS.ChangePassword.resources
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\obj\Debug\DesignSIMS.IMSpace.resources
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\obj\Debug\DesignSIMS.Login.resources
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\obj\Debug\DesignSIMS.MailDetail.resources
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\obj\Debug\DesignSIMS.Properties.Resources.resources
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\obj\Debug\DesignSIMS.ReceiptDetail.resources
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\obj\Debug\DesignSIMS.SMSpace.resources
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\obj\Debug\DesignSIMS.SPSpace.resources
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\obj\Debug\Presentation.csproj.GenerateResource.Cache
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DesignSIMS\obj\Debug\DesignSIMS.exe

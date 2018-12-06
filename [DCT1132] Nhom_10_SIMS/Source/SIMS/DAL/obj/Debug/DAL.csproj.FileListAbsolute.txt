@@ -1,0 +1,9 @@
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DAL\bin\Debug\DAL.dll
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DAL\bin\Debug\DAL.pdb
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DAL\obj\Debug\DAL.dll
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\DAL\obj\Debug\DAL.pdb
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DAL\bin\Debug\DAL.dll
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DAL\bin\Debug\DAL.pdb
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DAL\obj\Debug\DAL.dll
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\DAL\obj\Debug\DAL.pdb

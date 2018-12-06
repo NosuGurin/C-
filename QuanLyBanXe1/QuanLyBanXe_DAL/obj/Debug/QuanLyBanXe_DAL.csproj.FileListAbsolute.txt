@@ -1,0 +1,41 @@
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_DAL.dll
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_DAL.pdb
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.dll
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.pdb
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_DAL.dll
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_DAL.pdb
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.csprojResolveAssemblyReference.cache
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.dll
+E:\IT\baitap_CNPM\QuanLyBanHangXeMay\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.pdb
+E:\IT\baitap_CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.csprojResolveAssemblyReference.cache
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_DAL.dll
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_DAL.pdb
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.csprojResolveAssemblyReference.cache
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.dll
+E:\IT\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.pdb
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_DAL.dll
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_DAL.pdb
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.csprojResolveAssemblyReference.cache
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.dll
+E:\IT\c#\baitap_CNPM\Đồ Án CNPM\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.pdb
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_DAL.dll
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_DAL.pdb
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_ENTITY.dll
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_ENTITY.pdb
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.dll
+C:\Users\Admin\Downloads\DATN\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.pdb
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_DAL.dll
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_DAL.pdb
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_ENTITY.dll
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe_DAL\bin\Debug\QuanLyBanXe_ENTITY.pdb
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.dll
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.pdb
+E:\code\C#\QuanLyBanXe1\QuanLyBanXe_DAL\obj\Debug\QuanLyBanXe_DAL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\BLL\bin\Debug\BLL.dll
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\BLL\bin\Debug\BLL.pdb
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\BLL\bin\Debug\DAL.dll
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\BLL\bin\Debug\DAL.pdb
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\BLL\obj\Debug\BLL.dll
+c:\users\pegasus\documents\visual studio 2012\Projects\Login\BLL\obj\Debug\BLL.pdb
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\BLL\bin\Debug\BLL.dll
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\BLL\bin\Debug\BLL.pdb
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\BLL\bin\Debug\DAL.dll
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\BLL\bin\Debug\DAL.pdb
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\BLL\obj\Debug\BLL.dll
+E:\code\C#\[DCT1132] Nhom_10_SIMS\Source\SIMS\BLL\obj\Debug\BLL.pdb
